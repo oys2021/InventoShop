@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ISMS
+build_property.RootNamespace = ISMS
+build_property.ProjectDir = C:\Users\dell\Pictures\ISMS\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dell\Pictures\ISMS
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/addcategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRkY2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/addproduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRkcHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/addrole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRkcm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/addsale.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRkc2FsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/adduser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cYWRkdXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/categorylist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cY2F0ZWdvcnlsaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/editcategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cZWRpdGNhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/editproducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cZWRpdHByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/editusers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cZWRpdHVzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5caG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/productdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5ccHJvZHVjdGRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/productlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5ccHJvZHVjdGxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/saleslist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cc2FsZXNsaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/UpdateSale.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cVXBkYXRlU2FsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/userdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cdXNlcmRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/userlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cdXNlcmxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/admin/ViewSaleDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cVmlld1NhbGVEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/addcategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XGFkZGNhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/addproduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XGFkZHByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/addrole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XGFkZHJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/addsale.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XGFkZHNhbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/categorylist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XGNhdGVnb3J5bGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/editcategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XGVkaXRjYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/editproducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XGVkaXRwcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XGhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/productdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XHByb2R1Y3RkZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/productlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XHByb2R1Y3RsaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/saleslist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XHNhbGVzbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/UpdateSale.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XFVwZGF0ZVNhbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/assistant/ViewSaleDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXNzaXN0YW50XFZpZXdTYWxlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/Shared/adminlayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWlubGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/user/changepassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxjaGFuZ2VwYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/user/userlogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclx1c2VybG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dell/Pictures/ISMS/Views/user/welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclx3ZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
